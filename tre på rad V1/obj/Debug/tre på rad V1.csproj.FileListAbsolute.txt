@@ -8,3 +8,13 @@ C:\Users\kaje-\source\repos\tre på rad V1\tre på rad V1\obj\Debug\tre på rad 
 C:\Users\kaje-\source\repos\tre på rad V1\tre på rad V1\obj\Debug\tre på rad V1.csproj.CoreCompileInputs.cache
 C:\Users\kaje-\source\repos\tre på rad V1\tre på rad V1\obj\Debug\tre på rad V1.exe
 C:\Users\kaje-\source\repos\tre på rad V1\tre på rad V1\obj\Debug\tre på rad V1.pdb
+C:\Users\kaje-\source\repos\TrePåRadV1\tre på rad V1\obj\Debug\tre på rad V1.csprojAssemblyReference.cache
+C:\Users\kaje-\source\repos\TrePåRadV1\tre på rad V1\obj\Debug\tre_på_rad_V1.Form1.resources
+C:\Users\kaje-\source\repos\TrePåRadV1\tre på rad V1\obj\Debug\tre_på_rad_V1.Properties.Resources.resources
+C:\Users\kaje-\source\repos\TrePåRadV1\tre på rad V1\obj\Debug\tre på rad V1.csproj.GenerateResource.cache
+C:\Users\kaje-\source\repos\TrePåRadV1\tre på rad V1\obj\Debug\tre på rad V1.csproj.CoreCompileInputs.cache
+C:\Users\kaje-\source\repos\TrePåRadV1\tre på rad V1\obj\Debug\tre på rad V1.exe
+C:\Users\kaje-\source\repos\TrePåRadV1\tre på rad V1\obj\Debug\tre på rad V1.pdb
+C:\Users\kaje-\source\repos\TrePåRadV1\tre på rad V1\bin\Debug\tre på rad V1.exe.config
+C:\Users\kaje-\source\repos\TrePåRadV1\tre på rad V1\bin\Debug\tre på rad V1.exe
+C:\Users\kaje-\source\repos\TrePåRadV1\tre på rad V1\bin\Debug\tre på rad V1.pdb
